@@ -1,0 +1,14 @@
+149c158 (HEAD -> deathedHeadBranch, origin/deathedHeadBranch) HEAD@{0}: checkout: moving from 149c15859389a0c7ff21bed3571c6923f5bbc272 to deathedHeadBranch
+149c158 (HEAD -> deathedHeadBranch, origin/deathedHeadBranch) HEAD@{1}: checkout: moving from master to 149c15859389a0c7ff21bed3571c6923f5bbc272
+773d7bd (origin/master, origin/HEAD, master) HEAD@{2}: pull origin master: Fast-forward
+7755c8e HEAD@{3}: checkout: moving from texts to master
+f3f0771 (tag: v1.1, origin/texts, texts) HEAD@{4}: commit: Kant rozprawa
+149c158 (HEAD -> deathedHeadBranch, origin/deathedHeadBranch) HEAD@{5}: commit: Lorem ipusum
+7755c8e HEAD@{6}: checkout: moving from master to texts
+7755c8e HEAD@{7}: pull origin master: Fast-forward
+fbca84f HEAD@{8}: checkout: moving from personal_details to master
+b9166e1 (tag: v1.0, origin/personal_details, personal_details) HEAD@{9}: commit: E-mail adress
+5aeabf4 HEAD@{10}: commit: Index number
+ac0a9bc HEAD@{11}: commit: First name and last name
+fbca84f HEAD@{12}: checkout: moving from master to personal_details
+fbca84f HEAD@{13}: clone: from https://github.com/Knapik0/WSB-git.git
